@@ -35,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitk1305&show_icons=true&locale=en" alt="rohitk1305" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitk1305&" alt="rohitk1305" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rohitk1305&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
