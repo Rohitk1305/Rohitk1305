@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/rohitk9519" target="blank"><img src="https://img.shields.io/twitter/follow/rohitk9519?logo=twitter&style=for-the-badge" alt="rohitk9519" /></a> </p>
 
 
-<img src="https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455" alt="Image description" align="right" width="200px" />
+<img src="https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455" alt="Image description" align="right" width="200px" height="400px" />
 
 
 - 🔭 I’m currently working on **real time data to derive informational insights from it and create a visual representation of that**
