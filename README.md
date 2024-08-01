@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Chaubey</h1>
-<h3 align="center">Highly motivated and detail-oriented Computer Science student at SAGE University, Bhopal, proficient in C++ and Python. Skilled in web development technologies (HTML, CSS, JavaScript, PHP) and app development frameworks (Flutter, FlutterFlow). Experienced in data visualization using Power BI.</h3>
+<h3 align="center">A highly motivated and skilled Data Analyst and Flutter developer✌️</h3>
 
 <p align="left"> <a href="https://twitter.com/rohitk9519" target="blank"><img src="https://img.shields.io/twitter/follow/rohitk9519?logo=twitter&style=for-the-badge" alt="rohitk9519" /></a> </p>
 
