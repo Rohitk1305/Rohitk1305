@@ -6,7 +6,7 @@
 <img src="https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455" alt="Image description" align="right" width="300px" height="300px" />
 
 
-- 🔭 I’m currently working on **real time data to derive informational insights from it and create a visual representation of that**
+- 🔭 I’m currently working on **real time data to derive informational insights from it and create a visual representation of datasets also leveling up my flutter development skills**
 
 - 🌱 I’m currently learning **Power BI, react native and mongo db**
 
