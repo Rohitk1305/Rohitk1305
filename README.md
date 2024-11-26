@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **chaubeyr1305@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yfhk3bpC6QHsQzc45ABrVjX8qEcth6kE/view?usp=sharing](https://drive.google.com/file/d/1Yfhk3bpC6QHsQzc45ABrVjX8qEcth6kE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Yfhk3bpC6QHsQzc45ABrVjX8qEcth6kE/view?usp=sharing](https://drive.google.com/file/d/11gfQso3acZw9s6LAdnDt4KWHPWzuuUU8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
